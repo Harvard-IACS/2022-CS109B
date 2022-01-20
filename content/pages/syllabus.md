@@ -82,7 +82,7 @@ Lab will be held every Friday. Labs will present guided, hands-on coding challen
 The course will include advanced sections for 209b students and will cover a different topic per week. &nbsp;These 75 min sessions will cover advanced topics like the mathematical underpinnings of the methods seen in the main course lectures and lab as well as extensions of those methods. &nbsp;The material covered in the advanced sections is </span><strong>required </strong> for all AC209b students. Tentative topics are:
 
 * Gaussian Mixture Models
-* Laplace Approximation
+* Particle Filters/Sequential Monte Carlo
 * NN as Universal Approximator
 * Solvers
 * Segmentation Techniques, YOLO, Unet and M-RCNN
