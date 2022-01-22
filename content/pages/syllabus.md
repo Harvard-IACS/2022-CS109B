@@ -1,6 +1,6 @@
 Title: Syllabus
 Slug: syllabus
-Date: 2021-12-16
+Date: 2022-1-22
 
 ### <span style="color:red">Draft Syllabus Subject to Change</style>
 ## Advanced Topics in Data Science (Spring 2022)
@@ -11,9 +11,9 @@ CS 109b, AC 209b, Stat 121b, or CSCI E-109b
 
 [Pavlos Protopapas](mailto:pavlos@seas.harvard.edu) (SEAS) & [Mark Glickman](mailto:glickman@fas.harvard.edu) (Statistics)
 
-**Lectures:** Mon & Wed 9:45‐11am (Location TBA)<br/>
-**Labs:** Fri 9:45-11am (Location TBA) <br/>
-**Advanced Sections:** Wed 12:45-2pm (starting 2/2; Location TBA)<br/>
+**Lectures:** Mon & Wed 9:45‐11am SEC 1.321<br/>
+**Labs:** Fri 9:45-11am SEC 1.321 <br/>
+**Advanced Sections:** Wed 2:15-3:30pm SEC LL2.224 (starting 2/2; see schedule for specific dates)<br/>
 **Office Hours:** TBA
 
 **Prerequisites:** CS 109a, AC 209a, Stat 121a, or CSCI E-109a or the equivalent.

@@ -57,7 +57,7 @@ pre {
 <br/>
 <strong>Sections: Fri 9:45-11 am </strong>
 <br/>
-<strong>Advanced Sections: Weds TBD </strong>
+<strong>Advanced Sections: Weds 2:15-3:30 pm (see schedule for specific dates) </strong>
 <br/>
 <strong>Office Hours: TBD </strong>
 <br/>
