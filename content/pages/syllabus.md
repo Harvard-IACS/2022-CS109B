@@ -232,11 +232,15 @@ You are welcome to audit this course. To request access, send an email to cs109b
 
 All auditors must agree to abide by the following rules:
 
-- All auditors are held to the same standard of academic honesty as our registered students. Please do not share homeworks or solutions with anyone. Violations will be reported to the Harvard Administrative Board.
-- Auditors are not permitted to take the course for credit in the future.
-- Audiors should not submit HWs or participate in projects.
-- Auditors should refrain from using any course and TF resources that are designed for our registered students like Ed, Jupyter Hub, and office hours.
+- Auditors must attend class in person. This is a Harvard policy. Auditors who do not confirm their presence with the head TF during the first week of in-class instruction will lose course access.
 
+- Auditors are held to the same standard of academic honesty as our registered students. Please do not share homeworks or solutions with anyone. Violations will be reported to the Harvard Administrative Board.
+
+- Auditors are not permitted to take the course for credit in the future.
+
+- Audiors should **not** submit HWs or participate in projects.
+
+- Auditors should refrain from using any course and TF resources that are designed for our registered students like Ed, FASOnDemand, JupyterHub, and office hours.
 
 #### Academic Integrity <a name='academic-integrity'></a>
 Ethical behavior is an important trait of a Data Scientist, from ethically handling data to attribution of code and work of others. Thus, in CS109b we give a strong emphasis to Academic Honesty.
