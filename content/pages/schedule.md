@@ -1,11 +1,11 @@
 Title: Schedule
 Slug: schedule
-Date: 2022-01-23
+Date: 2022-01-28
 
 
 |Date (Mon)|Lecture (Mon)|Lecture (Wed)|Lab (Fri)|Advanced Section (Wed)|Assignment (R:Released Wed - D:Due Wed)|
 |-----|-----|-----|-----|-----|-----|
-|24-Jan|Lecture 1: Clustering 1|Lecture 2: Clustering 2|Lecture 3: Lab 1||R:HW1|
+|24-Jan|Lecture 1: Clustering 1|Lecture 2: Clustering 2|[Lab 1]({filename}/labs/lab01/index.md)||R:HW1|
 |31-Jan|Lecture 3: Bayes 1|Lecture 4: Bayes 2|Lab 2| Advanced Section 1: Gaussian Mixture Models||
 |7-Feb|Lecture 5: Bayes 3|Lecture 6: Bayes 4|Lab 3|Advanced Section 2: Particle Filters/Sequential Monte Carlo|R:HW2 - D:HW1|
 |14-Feb| Lecture 7: Bayes 5|Lecture 8: Neural Networks 1|Lab 4|||
