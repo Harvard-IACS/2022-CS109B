@@ -1,6 +1,6 @@
 Title: Schedule
 Slug: schedule
-Date: 2022-01-28
+Date: 2022-01-31
 
 
 |Date (Mon)|Lecture (Mon)|Lecture (Wed)|Lab (Fri)|Advanced Section (Wed)|Assignment (R:Released Wed - D:Due Wed)|
