@@ -1,14 +1,14 @@
 Title: Schedule
 Slug: schedule
-Date: 2022-02-04
+Date: 2022-02-20
 
 
 |Date (Mon)|Lecture (Mon)|Lecture (Wed)|Lab (Fri)|Advanced Section (Wed)|Assignment (R:Released Wed - D:Due Wed)|
 |-----|-----|-----|-----|-----|-----|
 |24-Jan|Lecture 1: Clustering 1|Lecture 2: Clustering 2|[Lab 1]({filename}/labs/lab01/index.md)||R:HW1|
-|31-Jan|Lecture 3: Bayes 1|Lecture 4: Bayes 2|| Advanced Section 1: Gaussian Mixture Models||
-|7-Feb|Lecture 5: Bayes 3|Lecture 6: Bayes 4|Lab 2 (+Lab 3 recording)||R:HW2 - D:HW1|
-|14-Feb| Lecture 7: Bayes 5|Lecture 8: Neural Networks 1|Lab 4|Advanced Section 2: Particle Filters/Sequential Monte Carlo||
+|31-Jan|Lecture 3: Bayes 1|Lecture 4: Bayes 2|[Lab 2]({filename}/labs/lab02/index.md)|[Advanced Section 1: Gaussian Mixture Models]({filename}/a-sections/a-sec01/index.md)||
+|7-Feb|Lecture 5: Bayes 3|Lecture 6: Bayes 4|[Lab 3]({filename}/labs/lab03/index.md)||R:HW2 - D:HW1|
+|14-Feb| Lecture 7: Bayes 5|[Lecture 8: Neural Networks 1]({filename}/lectures/lecture08/index.md)|[Lab 4]({filename}/labs/lab04/index.md)|[Advanced Section 2: Particle Filters/Sequential Monte Carlo]({filename}/a-sections/a-sec02/index.md)||
 |21-Feb|No Lectture (Holiday)| Lecture 9: Neural Networks 2|Lab 5|Advanced Section 3: Universal Approximator|R:HW3 - D:HW2|
 |28-Feb|Lecture 10: Neural Networks 3)|Lecture 11: CNNs 1| Lab 6|Advanced Section 4: Solvers||
 |7-Mar|Lecture 12:CNNs 2|Lecture 13: CNNs 3|Lab 7|Advanced Section 5: Segmentation|R:HW4 - D:HW3|

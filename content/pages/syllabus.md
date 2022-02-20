@@ -14,7 +14,7 @@ CS 109b, AC 209b, Stat 121b, or CSCI E-109b
 **Lectures:** Mon & Wed 9:45‐11am SEC 1.321<br/>
 **Labs:** Fri 9:45-11am SEC 1.321 <br/>
 **Advanced Sections:** Wed 2:15-3:30pm SEC 1.321 (starting 2/2; see schedule for specific dates)<br/>
-**Office Hours:** TBA
+**Office Hours:** <a href=https://edstem.org/us/courses/17022/discussion/1067987 target='_blank'>See Ed Post</a>
 
 **Prerequisites:** CS 109a, AC 209a, Stat 121a, or CSCI E-109a or the equivalent.
 

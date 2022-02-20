@@ -2,7 +2,7 @@ Title: Lab 1: Clustering
 Category: labs
 Date: 2022-01-28
 Author: Eleni Angelaki Kaxiras
-Slug: labs01
+Slug: lab01
 Tags:
 
 ## Notebook

@@ -1,3 +1,5 @@
+# NOTE: when running `iacs publish` your env must have nbconvert==5.6
+# or else notebooks won't render!
 COURSE_NAME = 'CS109B'
 
 AUTHOR = 'Pavlos Protopapas & Mark Glickman'
@@ -6,9 +8,9 @@ SEMESTER = 'Spring'
 
 YEAR = '2022'
 
-SITEURL = 'https://harvard-iacs.github.io/2021-CS109B'
+SITEURL = 'https://harvard-iacs.github.io/2022-CS109B'
 
-GITHUB = 'https://github.com/Harvard-IACS/2021-CS109B'
+GITHUB = 'https://github.com/Harvard-IACS/2022-CS109B'
 
 COLOR = '#c90016'
 
@@ -86,17 +88,17 @@ PLUGIN_PATHS = ['plugins']
 
 # FOR PAVLOS COMPUTER .....
 # PLUGINS = ['tipue_search']
-PLUGINS = ['ipynb.markup', 'tipue_search']
+#PLUGINS = ['ipynb.markup', 'tipue_search']
 
-# from pelican_jupyter import markup as nb_markup
+from pelican_jupyter import markup as nb_markup
 # PLUGINS = ['ipynb.markup', 'tipue_search']
+PLUGINS = [nb_markup, 'ipynb.markup', 'tipue_search']
 # PLUGINS = [nb_markup, 'ipynb.markup', 'tipue_search']
 
 IGNORE_FILES = ['.#*', '.ipynb_checkpoints', 'README.md', "*.html", "__pycache__", "*.pdf", "*.pptx", ".placeholder",
                 ".DS_Store", "*.ipynb-meta", "*.csv", "*.json", "*.txt", "*.xmls"]
 
-STATIC_PATHS = ['lectures', 'labs', 'homeworks', 'a-sections', 'sections', 'wiki', 'images', 'projects', 'slides',
-                'data']
+STATIC_PATHS = ['lectures', 'labs',  'a-sections']
 
 DIRECT_TEMPLATES = ['index', 'search', 'tags', 'category']
 
@@ -114,3 +116,4 @@ LOG_FILTER = [
     (logging.WARN, "Empty alt attribute for image %s in %s"),
     (logging.WARN, "Meta tag in file %s does not have a 'name' attribute, skipping. Attributes: content=%s")
 ]
+
