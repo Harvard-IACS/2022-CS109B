@@ -3,8 +3,8 @@ Date (Mon),Lecture (Mon),Lecture (Wed),Lab (Fri),Advanced Section (Wed),Assignme
 31-Jan,Lecture 3: Bayes 1,Lecture 4: Bayes 2,Lab 2,Advanced Section 1: Gaussian Mixture Models,
 7-Feb,Lecture 5: Bayes 3,Lecture 6: Bayes 4,Lab 3,,R:HW2 - D:HW1
 14-Feb, Lecture 7: Bayes 5,Lecture 8: Neural Networks 1 (MLP),Lab 4,Advanced Section 2: Particle Filters/Sequential Monte Carlo,
-21-Feb,No Lecture (Holiday), Lecture 9: NN 2 Gradient Descent; SGD; BackProp),Lab 5,,R:HW3 - D:HW2
-28-Feb,Lecture 10: NN 3 (Optimizers),Lecture 11: NN 4 (Regularization), Lab 6,Advanced Section 3: Solvers,
+21-Feb,No Lecture (Holiday),Lecture 9: NN 2 Gradient Descent; SGD; BackProp),Lab 5,,R:HW3 - D:HW2
+28-Feb,Lecture 10: NN 3 (Optimizers),Lecture 11: NN 4 (Regularization),Lab 6,Advanced Section 3: Solvers,
 7-Mar,Lecture 12: Convolutional Neural Networks 1 (Basics),Lecture 13: CNNs 2 (Regularization),Lab 7,Advanced Section 4: Segmentation,R:HW4 - D:HW3
 14-Mar,No Lecture (Spring Break), No Lecture, No Lab,,
 21-Mar,Lecture 14: CNNs 3 (Receptive Field),Lecture 15: CNNs 4 (Saliency Map),No Lab (Midterm),Advanced Section 5: SOTA & Transfer Learning,

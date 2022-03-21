@@ -9,8 +9,8 @@ Date: 2022-03-21
 |31-Jan|Lecture 3: Bayes 1|Lecture 4: Bayes 2|[Lab 2]({filename}/labs/lab02/index.md)|[Advanced Section 1: Gaussian Mixture Models]({filename}/a-sections/a-sec01/index.md)||
 |7-Feb|Lecture 5: Bayes 3|Lecture 6: Bayes 4|[Lab 3]({filename}/labs/lab03/index.md)||R:HW2 - D:HW1|
 |14-Feb| Lecture 7: Bayes 5|[Lecture 8: Neural Networks 1 (MLP)]({filename}/lectures/lecture08/index.md)|[Lab 4]({filename}/labs/lab04/index.md)|[Advanced Section 2: Particle Filters/Sequential Monte Carlo]({filename}/a-sections/a-sec02/index.md)||
-|21-Feb|No Lecture (Holiday)| Lecture 9: NN 2 Gradient Descent; SGD; BackProp)|[Lab 5]({filename}/labs/lab05/index.md)||R:HW3 - D:HW2|
-|28-Feb|[Lecture 10: NN 3 (Optimizers)]({filename}/lectures/lecture10/index.md)|[Lecture 11: NN 4 (Regularization)]({filename}/lectures/lecture11/index.md)| Lab 6|Advanced Section 3: Solvers||
+|21-Feb|No Lecture (Holiday)|[Lecture 9: NN 2 Gradient Descent; SGD; BackProp)]({filename}/lectures/lecture09/index.md)|[Lab 5]({filename}/labs/lab05/index.md)||R:HW3 - D:HW2|
+|28-Feb|[Lecture 10: NN 3 (Optimizers)]({filename}/lectures/lecture10/index.md)|[Lecture 11: NN 4 (Regularization)]({filename}/lectures/lecture11/index.md)|[Lab 6]({filename}/labs/lab06/index.md)|Advanced Section 3: Solvers||
 |7-Mar|[Lecture 12: Convolutional Neural Networks 1 (Basics)]({filename}/lectures/lecture12 /index.md)|[Lecture 13: CNNs 2 (Regularization)]({filename}/lectures/lecture13/index.md)|[Lab 7]({filename}/labs/lab07/index.md)|Advanced Section 4: Segmentation|R:HW4 - D:HW3|
 |14-Mar|No Lecture (Spring Break)| No Lecture| No Lab|||
 |21-Mar|[Lecture 14: CNNs 3 (Receptive Field)]({filename}/lectures/lecture14/index.md)|Lecture 15: CNNs 4 (Saliency Map)|No Lab (Midterm)|Advanced Section 5: SOTA & Transfer Learning||
