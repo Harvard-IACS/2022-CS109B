@@ -11,9 +11,9 @@ Date: 2022-03-23
 |14-Feb| Lecture 7: Bayes 5|[Lecture 8: Neural Networks 1 (MLP)]({filename}/lectures/lecture08/index.md)|[Lab 4]({filename}/labs/lab04/index.md)|[Advanced Section 2: Particle Filters/Sequential Monte Carlo]({filename}/a-sections/a-sec02/index.md)||
 |21-Feb|No Lecture (Holiday)|[Lecture 9: NN 2 Gradient Descent; SGD; BackProp)]({filename}/lectures/lecture09/index.md)|[Lab 5]({filename}/labs/lab05/index.md)||R:HW3 - D:HW2|
 |28-Feb|[Lecture 10: NN 3 (Optimizers)]({filename}/lectures/lecture10/index.md)|[Lecture 11: NN 4 (Regularization)]({filename}/lectures/lecture11/index.md)|[Lab 6]({filename}/labs/lab06/index.md)|Advanced Section 3: Solvers||
-|7-Mar|[Lecture 12: Convolutional Neural Networks 1 (Basics)]({filename}/lectures/lecture12 /index.md)|[Lecture 13: CNNs 2 (Regularization)]({filename}/lectures/lecture13/index.md)|[Lab 7]({filename}/labs/lab07/index.md)|Advanced Section 4: Segmentation|R:HW4 - D:HW3|
+|7-Mar|[Lecture 12: Convolutional Neural Networks 1 (Basics)]({filename}/lectures/lecture12/index.md)|[Lecture 13: CNNs 2 (Regularization)]({filename}/lectures/lecture13/index.md)|[Lab 7]({filename}/labs/lab07/index.md)|Advanced Section 4: Segmentation|R:HW4 - D:HW3|
 |14-Mar|No Lecture (Spring Break)| No Lecture| No Lab|||
-|21-Mar|[Lecture 14: CNNs 3 (Receptive Field)]({filename}/lectures/lecture14/index.md)|Lecture 15: CNNs 4 (Saliency Map)|No Lab (Midterm)|Advanced Section 5: SOTA & Transfer Learning||
+|21-Mar|[Lecture 14: CNNs 3 (Receptive Field)]({filename}/lectures/lecture14/index.md)|[Lecture 15: CNNs 4 (Saliency Map)]({filename}/lectures/lecture15/index.md)|No Lab (Midterm)|Advanced Section 5: SOTA & Transfer Learning||
 |28-Mar|Lecture 16: Intro to Language Models|Lecture 17: Recurrent Neural Networks|Lab 8|Advanced Section 6: Autoencoders|R:HW5(Individual) - D:HW4|
 |4-Apr|Lecture 18: NLP 1 (GRUs/LSTMs)| Lecture 19: NLP 2 (ELMO)|Lab 9|Advanced Section 7: Word2Vec|R:HW6(Individual) - D:HW5(Individual)|
 |11-Apr|Lecture 20: NLP 3 (Seq2Seq & Attention)|Lecture 21: NLP 4 (Transformers)| Lab 10|Advanced Section 8: BERT||
