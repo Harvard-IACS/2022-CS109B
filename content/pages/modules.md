@@ -27,7 +27,7 @@ ol {
 }
 </style>
 
-A. Machine Learning for Medical Diagnosis
+[A. Machine Learning for Medical Diagnosis](https://drive.google.com/file/d/17FL1QJJBwOPM58oxDPYBtZ6g0k_R4C5k/view?usp=sharing)
 
 B. Searching for Near Earth Asteroids
 
@@ -37,10 +37,10 @@ D. Scene Detection for Design
 
 E. Applied Differential Privacy on U.S. Census Data
 
-F. Microbiome Dynamics in Health and Disease
+[F. Microbiome Dynamics in Health and Disease](https://drive.google.com/file/d/1Xbue3vN9FNGqggbYstaFi9YQOe2vQVVn/view?usp=sharing)
 
-G. Visual Recognition of Images on Ancient Greek Vases
+[G. Visual Recognition of Images on Ancient Greek Vases](https://docs.google.com/document/d/1bgou6OLuGTgBDYLiFDdEnVt9GrJPgJ7-/edit?usp=sharing&ouid=102203948850235608331&rtpof=true&sd=true)
 
-H. Dynamics of Disease Transmission and Human Behavior
+[H. Dynamics of Disease Transmission and Human Behavior](https://docs.google.com/document/d/1xFF2PCN0Vv4XMGZiCQid5ieHxYYSIKR3Yex8c38R2DM/edit?usp=sharing)
 
 
