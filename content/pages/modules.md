@@ -35,7 +35,7 @@ C. Predicting Citation Networks in Legal Texts
 
 D. Scene Detection for Design
 
-E. Applied Differential Privacy on U.S. Census Data
+[E. Applied Differential Privacy](https://drive.google.com/file/d/1fCNgLdSdIxfGqd61l3gWNLx2W-7QoNHm/view?usp=sharing)
 
 [F. Microbiome Dynamics in Health and Disease](https://drive.google.com/file/d/1Xbue3vN9FNGqggbYstaFi9YQOe2vQVVn/view?usp=sharing)
 
