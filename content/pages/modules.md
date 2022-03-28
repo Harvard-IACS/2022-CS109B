@@ -31,9 +31,9 @@ ol {
 
 B. Searching for Near Earth Asteroids
 
-C. Predicting Citation Networks in Legal Texts
+[C. Predicting Citation Networks in Legal Texts](https://docs.google.com/document/d/1LN8SL12X9RZxitbBKsltUU52MDwJhf3VbnIzCfcAK3k/edit?usp=sharing)
 
-D. Scene Detection for Design
+[D. Scene Detection for Design](https://docs.google.com/document/d/1OglGyh8FpYVE2ZrVAzHs3tTbaZXTvH-08ziMylgw8PY/edit?usp=sharing)
 
 [E. Applied Differential Privacy](https://drive.google.com/file/d/1fCNgLdSdIxfGqd61l3gWNLx2W-7QoNHm/view?usp=sharing)
 
