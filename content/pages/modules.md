@@ -34,7 +34,7 @@ B. Searching for Near Earth Asteroids
 
 [C. Predicting Citation Networks in Legal Texts](https://docs.google.com/document/d/1LN8SL12X9RZxitbBKsltUU52MDwJhf3VbnIzCfcAK3k/edit?usp=sharing)
 
-[D. Applied Differential Privacy](https://drive.google.com/file/d/1fCNgLdSdIxfGqd61l3gWNLx2W-7QoNHm/view?usp=sharing)
+<del>D. Applied Differential Privacy</del> [canceled]
 
 [E. Microbiome Dynamics in Health and Disease](https://drive.google.com/file/d/1Xbue3vN9FNGqggbYstaFi9YQOe2vQVVn/view?usp=sharing)
 
