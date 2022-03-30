@@ -34,12 +34,14 @@ B. Searching for Near Earth Asteroids
 
 [C. Predicting Citation Networks in Legal Texts](https://docs.google.com/document/d/1LN8SL12X9RZxitbBKsltUU52MDwJhf3VbnIzCfcAK3k/edit?usp=sharing)
 
-<del>D. Applied Differential Privacy</del> [canceled]
+<del>D. Scene Detection for Design</del> [canceled]
 
-[E. Microbiome Dynamics in Health and Disease](https://drive.google.com/file/d/1Xbue3vN9FNGqggbYstaFi9YQOe2vQVVn/view?usp=sharing)
+[E. Applied Differential Privacy](https://drive.google.com/file/d/1fCNgLdSdIxfGqd61l3gWNLx2W-7QoNHm/view?usp=sharing)
 
-[F. Visual Recognition of Images on Ancient Greek Vases](https://docs.google.com/document/d/1bgou6OLuGTgBDYLiFDdEnVt9GrJPgJ7-/edit?usp=sharing&ouid=102203948850235608331&rtpof=true&sd=true)
+[F. Microbiome Dynamics in Health and Disease](https://drive.google.com/file/d/1Xbue3vN9FNGqggbYstaFi9YQOe2vQVVn/view?usp=sharing)
 
-[G. Dynamics of Disease Transmission and Human Behavior](https://docs.google.com/document/d/1xFF2PCN0Vv4XMGZiCQid5ieHxYYSIKR3Yex8c38R2DM/edit?usp=sharing)
+[G. Visual Recognition of Images on Ancient Greek Vases](https://docs.google.com/document/d/1bgou6OLuGTgBDYLiFDdEnVt9GrJPgJ7-/edit?usp=sharing&ouid=102203948850235608331&rtpof=true&sd=true)
+
+[H. Dynamics of Disease Transmission and Human Behavior](https://docs.google.com/document/d/1xFF2PCN0Vv4XMGZiCQid5ieHxYYSIKR3Yex8c38R2DM/edit?usp=sharing)
 
 
