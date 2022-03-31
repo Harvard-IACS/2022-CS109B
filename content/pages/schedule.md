@@ -1,6 +1,6 @@
 Title: Schedule
 Slug: schedule
-Date: 2022-03-28
+Date: 2022-03-31
 
 
 |Date (Mon)|Lecture (Mon)|Lecture (Wed)|Lab (Fri)|Advanced Section (Wed)|Assignment (R:Released Wed - D:Due Wed)|
@@ -14,8 +14,8 @@ Date: 2022-03-28
 |7-Mar|[Lecture 12: Convolutional Neural Networks 1 (Basics)]({filename}/lectures/lecture12/index.md)|[Lecture 13: CNNs 2 (Regularization)]({filename}/lectures/lecture13/index.md)|[Lab 7]({filename}/labs/lab07/index.md)|[Advanced Section 4: Segmentation]({filename}/a-sections/a-sec04/index.md)|R:HW4 - D:HW3|
 |14-Mar|No Lecture (Spring Break)| No Lecture| No Lab|||
 |21-Mar|[Lecture 14: CNNs 3 (Receptive Field)]({filename}/lectures/lecture14/index.md)|[Lecture 15: CNNs 4 (Saliency Map)]({filename}/lectures/lecture15/index.md)|No Lab (Midterm)|[Advanced Section 5: SOTA & Transfer Learning]({filename}/a-sections/a-sec05/index.md)||
-|28-Mar|Lecture 16: Intro to Language Models|Lecture 17: Recurrent Neural Networks|Lab 8|Advanced Section 6: Autoencoders|R:HW5(Individual) - D:HW4|
-|4-Apr|Lecture 18: NLP 1 (GRUs/LSTMs)| Lecture 19: NLP 2 (ELMO)|Lab 9|Advanced Section 7: Word2Vec|R:HW6(Individual) - D:HW5(Individual)|
+|28-Mar|Lecture 16: Intro to Language Models|Lecture 17: Recurrent Neural Networks|Lab 8|Advanced Section 6: Autoencoders|R:HW5 - D:HW4|
+|4-Apr|Lecture 18: NLP 1 (GRUs/LSTMs)| Lecture 19: NLP 2 (ELMO)|Lab 9|Advanced Section 7: Word2Vec|R:HW6(Individual) - D:HW5|
 |11-Apr|Lecture 20: NLP 3 (Seq2Seq & Attention)|Lecture 21: NLP 4 (Transformers)| Lab 10|Advanced Section 8: BERT||
 |18-Apr|Lecture 22: GANs 1| Lecture 23: GANs 2|Lab 11|Advanced Section 9: More GANs!|D:HW6(Individual) - R:HW7|
 |25-Apr|Module: Lecture Domain| Module: Problem Background|Project Work||D:HW7|
