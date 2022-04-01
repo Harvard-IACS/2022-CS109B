@@ -18,14 +18,14 @@ COLOR = '#c90016'
 # ex. ('Link Name', 'URL')
 MENUITEMS = [
     ('Syllabus', 'pages/syllabus.html'),
-    #('Calendar', 'pages/calendar.html'),
+    # ('Calendar', 'pages/calendar.html'),
     ('Schedule', 'pages/schedule.html'),
     ('Materials', 'pages/materials.html'),
     # ('Videos', 'pages/videos.html'),
     ('Modules', 'pages/modules.html'),
     # ('Projects', 'pages/projects.html'),
     ('FAQ', 'pages/faq.html'),
-    #('Preparing for this course', 'pages/preparation.html')
+    ('Preparing for this course', 'pages/preparation.html')
     # ('Resources', 'pages/resources.html')
     # ('Sections', 'category/sections.html')
 ]
@@ -88,17 +88,18 @@ PLUGIN_PATHS = ['plugins']
 
 # FOR PAVLOS COMPUTER .....
 # PLUGINS = ['tipue_search']
-#PLUGINS = ['ipynb.markup', 'tipue_search']
 
-from pelican_jupyter import markup as nb_markup
-# PLUGINS = ['ipynb.markup', 'tipue_search']
-PLUGINS = [nb_markup, 'ipynb.markup', 'tipue_search']
+PLUGINS = ['ipynb.markup', 'tipue_search']
 # PLUGINS = [nb_markup, 'ipynb.markup', 'tipue_search']
+
+IPYNB_EXPORT_TEMPLATE = 'themes/templates/nbconvert/lab/index.html.j2'
 
 IGNORE_FILES = ['.#*', '.ipynb_checkpoints', 'README.md', "*.html", "__pycache__", "*.pdf", "*.pptx", ".placeholder",
                 ".DS_Store", "*.ipynb-meta", "*.csv", "*.json", "*.txt", "*.xmls"]
 
-STATIC_PATHS = ['lectures', 'labs',  'a-sections']
+STATIC_PATHS = ['lectures', 'labs', 'homeworks', 'a-sections'
+                # 'a-sections', 'sections', 'wiki',  'images', 'projects', 'slides', 'data'
+                ]
 
 DIRECT_TEMPLATES = ['index', 'search', 'tags', 'category']
 
@@ -116,4 +117,3 @@ LOG_FILTER = [
     (logging.WARN, "Empty alt attribute for image %s in %s"),
     (logging.WARN, "Meta tag in file %s does not have a 'name' attribute, skipping. Attributes: content=%s")
 ]
-
